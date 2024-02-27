@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Get upTo 50% Offer",
+    "subtitle": "Buy Grocery OnLine",
+    "image": "/assets/img/slider/product-slider.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Smart Products",
+    "subtitle": "Summer Offer 2024 Collection",
+    "image": "/assets/img/slider/product-slider-2.png",
+    "url": "/shop-grid-standard"
+  }
+]
